@@ -1,2 +1,2 @@
 # hello-world
-just st00f
+Working on linking Swift Irc to a discord server
